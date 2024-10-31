@@ -1,4 +1,4 @@
-# Dashboard de Ventas - Power BI
+# Dashboard de Ventas
 
 ## Propósito
 
